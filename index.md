@@ -1,1 +1,27 @@
-test
+# 三分官网域名发布页
+## 永久域名：（已被墙）
+### 三分机场.xyz
+## 目前可直连域名：
+![new](https://pictures.sanfenweb.com/png/newdomin.png)
+### 可直连域名不能保证一直有效
+## 其他已被墙域名：
+### ca.sanfen.me
+### de.sanfen.me
+### fr.sanfen.me
+### gb.sanfen.me
+### hk.sanfen.me
+### jp.sanfen.me
+### kr.sanfen.me
+### sg.sanfen.me
+### shop.sanfen.me
+### uk.sanfen.me
+### us.sanfen.me
+### shop.sanfen.co
+### shop1.sanfen.co
+### ca.sanfen.cc
+### de.sanfen.cc
+### hk.sanfen.cc
+### mo.sanfen.cc
+### sg.sanfen.cc
+### uk.sanfen.cc
+### 已被墙域名可能有遗漏
