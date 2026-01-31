@@ -3,7 +3,7 @@
 ### [三分机场.xyz](https://三分机场.xyz/)
 ## 目前可直连域名：(手动输入到浏览器）
 ![new](https://pictures.sanfenweb.com/png/newdomin.png)
-### web.sanfen.icu
+### web.sanfenwev.cc
 可直连域名不能保证一直有效
 ## 其他已被墙域名：
 ### panel.sanfen.icu
