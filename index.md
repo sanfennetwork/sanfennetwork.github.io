@@ -4,37 +4,3 @@
 ## 目前可直连域名：(手动输入到浏览器）
 ### web.sanfenweb.cc
 可直连域名不能保证一直有效
-## 其他已被墙域名：
-### panel.sanfen.icu
-### af.sanfenweb.xyz
-### am.sanfenweb.xyz
-### az.sanfenweb.xyz
-### bh.sanfenweb.xyz
-### bd.sanfenweb.xyz
-### bt.sanfenweb.xyz
-### bn.sanfenweb.xyz
-### kh.sanfenweb.xyz
-### cn.sanfenweb.xyz
-### cy.sanfenweb.xyz
-### ge.sanfenweb.xyz
-### mo.sanfenweb.xyz
-### ca.sanfen.me
-### de.sanfen.me
-### fr.sanfen.me
-### gb.sanfen.me
-### hk.sanfen.me
-### jp.sanfen.me
-### kr.sanfen.me
-### sg.sanfen.me
-### shop.sanfen.me
-### uk.sanfen.me
-### us.sanfen.me
-### shop.sanfen.co
-### shop1.sanfen.co
-### ca.sanfen.cc
-### de.sanfen.cc
-### hk.sanfen.cc
-### mo.sanfen.cc
-### sg.sanfen.cc
-### uk.sanfen.cc
-已被墙域名可能有遗漏
